@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "SpeedBoost",
+      "description": "Optimizes browser resource usage to accelerate page loading.",
+      "icon": "/icons/speedboost.png",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "name": "CodeFormatter",
+      "description": "Automatically formats your code for better readability.",
+      "icon": "/icons/codeformatter.png",
+      "enabled": false
+    }
+  ]
+  
